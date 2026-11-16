@@ -39,4 +39,4 @@ Most of what I write is **C#** and **ASP.NET Core**. I've also spent some time w
 
 I'm open to junior backend roles, and always happy to talk about code.
 
-- LinkedIn: <!-- TODO: linkedin.com/in/kullanici-adin -->
+- LinkedIn: https://www.linkedin.com/in/nartcandan/
